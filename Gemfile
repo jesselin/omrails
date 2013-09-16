@@ -3,8 +3,9 @@ source 'https://rubygems.org'
 ruby "1.9.3"
 
 gem 'bootstrap-sass', '~> 2.2.2.0'
-
 gem 'hirb'
+gem 'devise'
+gem 'simple_form'
 
 gem 'rails_12factor'
 
