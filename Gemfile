@@ -6,6 +6,7 @@ gem 'bootstrap-sass', '~> 2.2.2.0'
 gem 'hirb'
 gem 'devise'
 gem 'simple_form'
+gem "paperclip", "~> 3.5"
 
 gem 'rails_12factor'
 
