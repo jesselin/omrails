@@ -1,10 +1,4 @@
-<% if user_signed_in? %>
-
-	<div class="hero-unit">
-		<h1>You are logged in</h1>
-	</div>
-
-<% else %>
+<% unless user_signed_in? %>
 
 	<div class="hero-unit">
 		<h1>Welcome to OMRails!</h1>
