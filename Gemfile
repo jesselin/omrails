@@ -7,6 +7,7 @@ gem 'hirb'
 gem 'devise'
 gem 'simple_form'
 gem "paperclip", "~> 3.5"
+gem 'aws-sdk'
 
 gem 'rails_12factor'
 
